@@ -1,0 +1,56 @@
+	@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&family=Roboto:wght@500;700&display=swap');
+	body{font-family: 'Odibee Sans', cursive;
+font-family: 'Roboto', sans-serif;}		
+
+		.box{
+	
+	
+    background: #59537d;
+    margin: auto;
+    width: 350px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-top: 90px;
+}
+    }
+	h1{margin: auto;
+    display: block;
+    text-align: center;}
+	img{width: 300px;
+    display: block;
+    margin: auto;    border-style: dashed;
+    border-color: black;
+    border-width: 7px;}
+	p{font-size: 15px;
+	line-height: 1.5}
+
+
+.container{background: red;
+    margin: auto;
+    display: block;
+    width: 800px;
+    margin-top: 100px;
+    display: flex;
+}  
+.product1{float: left;
+    /* width: 50%; */
+    padding: 50px;
+    background: #ff0411;}
+.product2{background: #e0da28;
+    float: left;
+    /* width: 50%; */
+    padding: 50px;}
+
+    h3{}
+    strong{}
+    span{font-weight: 300;
+    	text-decoration: line-through;
+    	font-style: italic;}
+    	button{cursor: pointer;background: white;color: black;
+    		border: 0;
+    		border-radius: 8px;
+    		padding: 12px 50px;
+    		font-size: 20px}
+    	button:hover{background:green}
